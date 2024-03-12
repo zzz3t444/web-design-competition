@@ -1,0 +1,356 @@
+/* //default */
+@media screen and (max-width: 767px) {
+
+    .contain_max {
+        max-width: 1200px;
+    }
+
+    .hidden_nav {
+        display: none;
+    }
+
+    .icoNav {
+        display: none;
+    }
+
+    .daily {
+        margin-top: 50px;
+    }
+
+    .max_desk {
+        margin-top: 30px;
+        padding: 10px;
+        font-size: 10px;
+    }
+
+    .ico_pad {
+        margin-top: 10px;
+        padding: 20px;
+    }
+
+    .sugaris_items {
+        margin-top: 20px;
+    }
+
+    .support_brand {
+        margin-top: 30px;
+    }
+
+    .header_image {
+        margin-top: 70px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+   
+    .simple-bar-chart {
+        height: 20rem;
+    }
+
+    .text_love {
+        font-size: 25px;
+    }
+
+    .text_desk_love {
+        font-size: 15px;
+    }
+
+    .introduction_card {
+        text-align: center;
+    }
+
+    .skill {
+        font-size: 25px;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .dm_sans {
+        flex-direction: column;
+    }
+
+    .btn-about {
+        margin-top: 50px;
+    }
+
+
+
+    .desk_gear_emoji {
+        text-align: center;
+    }
+
+    .geaer_emoji {
+        font-size: 10px;
+    }
+
+    .flex_responsive_parallax {
+
+        flex-direction: column;
+    }
+
+    .parallax2 {
+        margin-top: 20px;
+    }
+
+    .max-desk-parallax1 {
+        text-align: center;
+    }
+
+    .max-desk-parallax2 {
+        text-align: center;
+    }
+
+    .information_site {
+        margin: 10px;
+    }
+
+    .dream-text {
+        text-align: center;
+    }
+
+    .desk_footer {
+        padding: 15px;
+    }
+
+    .group_cr {
+        justify-content: center;
+        text-align: center;
+    }
+
+ 
+
+    .slideImport {
+        flex-direction: column;
+    }
+
+    .settings_text {
+        line-height: 40px;
+        font-size: 30px;
+        text-align: center;
+    }
+
+   
+
+    .padding_hero {
+        padding: 1px;
+    }
+
+    .content_Desk {
+        margin: 20px;
+        margin-left: 0;
+    }
+
+    /* //hidden frontend logo ico framework// */
+    .html_hidden_mobile,
+    .vue_hidden_mobile,
+    .svelte_hidden_mobile,
+    .react_hidden_mobile,
+    .angular_hidden_mobile,
+    .tailwind_hidden_mobile,
+    .bootstrap_hidden_mobile,
+    .vite_hidden_mobile,
+    .nuxt_hidden_mobile,
+    .vuetify_hidden_mobile,
+    .pug_hidden_mobile,
+    .css_hidden_mobile,
+    .js_hidden_ico {
+        display: none;
+    }
+
+    /* //hidden backend logo ico framework //*/
+    .nest_hidden_mobile,
+    .express_hidden_mobile,
+    .ruby_hidden_mobile,
+    .next_hidden_mobile,
+    .hapi_hidden_mobile,
+    .symfony_hidden_mobile,
+    .laravel_hidden_mobile,
+    .fast_hidden_mobile,
+    .django_hidden_mobile {
+        display: none;
+    }
+
+    .gallery-grid {
+        margin-top: 30px;
+    }
+
+
+    .globe_mod {
+        justify-content: center;
+        margin: auto;
+        width: 190px;
+    }
+
+    .zetdzak_name {
+        font-size: 20px;
+    }
+
+    .gradient_nusantara {
+        line-height: 50px;
+        font-size: 40px;
+    }
+
+    .ClassName_desk_nusantara {
+        font-size: 13px;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+
+    .for_text_center_mobile {
+        text-align: center;
+    }
+
+    .class_grid_image {
+        margin-top: 20px;
+    }
+
+
+    .gallery_items_img {
+        margin-top: 20px;
+    }
+
+    .gallery_items_img2,
+    .gallery_items_img3,
+    .gallery_items_img4 {
+        margin-top: 30px;
+    }
+
+    .max_paragraph {
+        margin-top: 2px;
+    }
+
+    .test_gradient_backgorund {
+        flex-direction: column;
+    }
+
+    .hero_about {
+        text-align: center;
+    }
+
+    .cardabout2,
+    .cardabout3 {
+        margin-top: 100px;
+    }
+
+    .asset_profile {
+        margin: auto;
+        width: 190px;
+    }
+
+    .coloumn_rate {
+        padding: 25px;
+        flex-direction: column;
+    }
+
+    .container_rate {
+        margin-top: 50px;
+    }
+
+    .pfrm_txt {
+        text-align: center;
+        margin: 10px;
+        margin-top: 200px;
+    }
+
+
+    .icon_framework_about {
+        margin-top: 0;
+    }
+
+    .asset_profile2 {
+        margin: auto;
+        width: 150px;
+    }
+
+    .ico_footer {
+        margin-top: 30px;
+    }
+
+    .maintxt_for_dc {
+        text-align: center;
+        padding: 10px;
+    }
+
+    .center_txt {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .maintxt_for_dc {
+        flex-direction: column;
+    }
+
+    .discord_and_button {
+        margin-top: 30px;
+    }
+
+
+    .margin_state {
+        margin-top: 30px;
+    }
+
+    .manage_system_security {
+        line-height: 55px;
+    }
+
+    .grid_github {
+        padding: 0;
+    }
+
+    .padding_for_pricing {
+        padding: 20px;
+    }
+
+    .form_col {
+        flex-direction: column;
+        padding: 15px;
+    }
+
+   .desk_avatarstar {
+    margin-top: 70px;
+   }
+
+   .main_txt_pricing {
+    padding: 20px;
+   }
+
+   .text_main_forms {
+    text-align: center;
+   }
+
+   .forms {
+    padding: 20px;
+   }
+
+   .glow_community_text {
+    text-align: center;
+    font-size: 25px;
+   }
+
+   .glow_red_text {
+    font-size: 27px;
+   }
+
+}
+
+@media screen and (min-width: 1023px) {
+    .wrapper {
+        justify-content: space-around;
+    }
+}
+
+@media screen and (max-width: 1180px) {
+    .col_content {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:423px) {
+    html {
+        margin: 0;
+        padding: 0;
+        margin-right: 0;
+        padding-right: 0;
+    }
+}
